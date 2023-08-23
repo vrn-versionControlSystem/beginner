@@ -1,9 +1,9 @@
-class Sum{
+class sum{
 	public static void main(String[] args)
 	{
-		int String=10;
+		int a=10;
 		
-		System.out.println(String);
+		System.out.println(a);
 		
 	}
 }
